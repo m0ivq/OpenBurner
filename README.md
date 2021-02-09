@@ -8,3 +8,5 @@ This project started after the popular 'Afterburner' controller became dificult 
 I have no intention of selling ready made units but if you feel you wish to profit from this work, by all means go ahead but please stick to the GPL v3 licence and provide your customers with a copy of the licence!
 
 If you choose to use this code, you do so at your own risk so don't hold me resposible if your house/van/car/boat/shed/garage/<other> burns down while using the OpenBurner!
+
+If you manage to buy a ready-made unit from elsewhere, don't expect any support from me! I will however do my best to support people building their own units for personal use.
